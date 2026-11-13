@@ -1,10 +1,7 @@
 # Lab 2: Flask Docker Post App
 
 ### 1. หน้าเว็บฟอร์มกรอกข้อความ
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/872ae409-4b4a-41b3-a87f-b49b0ee2435d" />
-
-
-
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/64b6dc33-c7a1-4b5a-91f2-19515d76c01e" />
 
 ### 2. ผลลัพธ์หลังกดส่งข้อมูล
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cd7cdcb8-72a1-4be6-ba72-ef816c9c77e9" />
